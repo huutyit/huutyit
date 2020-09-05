@@ -1,7 +1,6 @@
 ---
 title: "About Author"
 date: 2019-12-31T12:14:34+06:00
-image: "https://tycloud.netlify.app/static/f02496b3797fbe90ae6c81d690692e4f/a679d/avatar.jpg"
 description: "Nguyen Huu Ty"
 author: "Nguyen Huu Ty"
 type: "post"
